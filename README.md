@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Luis Molina Salvador  
 
-<!--
-**34lumo/34lumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Engineering and Business Administration** student at the **Complutense University of Madrid**. Passionate about technology, software development, and problem-solving, I enjoy working on projects that challenge my analytical and creative skills.  
 
-Here are some ideas to get you started:
+## 🚀 Skills & Interests  
+- **Programming Languages:** Java, Python, C++.  
+- **Software Development:** Object-Oriented Programming (OOP), Data Structures, SQL  
+- **Web & App Development:** Full-Stack, API Design, Databases (SQL & NoSQL)  
+- **Would love to learn about:**Machine Learning, AI and Business Data Analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 What I’m Working On  
+I’m constantly exploring new technologies, now more focuses in academic projects related to **software engineering and business analytics**.  
+
+## 📫 Let's Connect  
+- **📧 Email:** [luismolinasalvador@gmail.com](mailto:luismolinasalvador@gmail.com)  
+- **💼 LinkedIn:** [Luis Molina Salvador](https://www.linkedin.com/in/luis-molina-salvador/)  
+
+Feel free to reach out ! 🚀  
