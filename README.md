@@ -5,8 +5,7 @@ I am a **Computer Engineering and Business Administration** student at the **Com
 ## 🚀 Skills & Interests  
 - **Programming Languages:** Java, Python, C++.  
 - **Software Development:** Object-Oriented Programming (OOP), Data Structures, SQL  
-- **Web & App Development:** Full-Stack, API Design, Databases (SQL & NoSQL)  
-- **Would love to learn about:**Machine Learning, AI and Business Data Analysis.
+- **Would love to learn about:** Machine Learning, AI and Business Data Analysis.
 
 ## 🎯 What I’m Working On  
 I’m constantly exploring new technologies, now more focuses in academic projects related to **software engineering and business analytics**.  
