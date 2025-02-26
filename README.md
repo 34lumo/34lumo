@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Luis Molina Salvador  
+# 👋 Hey, I'm Lumo
 
 I am a **Computer Engineering and Business Administration** student at the **Complutense University of Madrid**. Passionate about technology, software development, and problem-solving, I enjoy working on projects that challenge my analytical and creative skills.  
 
