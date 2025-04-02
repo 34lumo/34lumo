@@ -11,7 +11,7 @@ I am a **Computer Engineering and Business Administration** student at the **Com
 I’m constantly exploring new technologies, now more focuses in academic projects related to **software engineering and business analytics**.  
 
 ## 📫 Let's Connect  
-- ** Email:** [luismolinasalvador@gmail.com](mailto:luismolinasalvador@gmail.com)  
-- ** LinkedIn:** [Luis Molina Salvador](https://www.linkedin.com/in/luis-molina-salvador/)  
+- **Email:** [luismolinasalvador@gmail.com](mailto:luismolinasalvador@gmail.com)  
+- **LinkedIn:** [Luis Molina Salvador](https://www.linkedin.com/in/luis-molina-salvador/)  
 
 Feel free to reach out !   
