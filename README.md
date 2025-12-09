@@ -1,17 +1,22 @@
-# I'm Lumo
+# Hi, I’m Lumo
 
-I am a **Computer Engineering and Business Administration** student at the **Complutense University of Madrid**. Passionate about technology, software development, and problem-solving, I enjoy working on projects that challenge my analytical and creative skills.  
+I’m a **Computer Engineering and Business Administration** student with a strong interest in software development, data systems, and how technology is applied in real-world environments.
 
-##  Skills & Interests  
-- **Programming Languages:** Java, Python, C++.  
-- **Software Development:** Object-Oriented Programming (OOP), Data Structures, SQL  
-- **Starting to learn about:** Machine Learning, AI and Business Data Analysis.
+This GitHub brings together academic and personal projects focused on building solid technical foundations, writing clear and maintainable code, and understanding how systems behave beyond the surface level.
 
-##  What I’m Working On  
-I’m constantly exploring new technologies, now more focuses in academic projects related to **software engineering and business analytics**.  
+## Areas of interest
+- Data structures and algorithms  
+- Backend development and databases  
+- Software design and system behavior  
+- Data-driven and business-oriented applications  
 
-## 📫 Let's Connect  
-- **Email:** [luismolinasalvador@gmail.com](mailto:luismolinasalvador@gmail.com)  
-- **LinkedIn:** [Luis Molina Salvador](https://www.linkedin.com/in/luis-molina-salvador/)  
+## What you’ll find here
+- Well-structured academic projects  
+- Practical implementations of core computer science concepts  
+- Projects exploring databases, APIs, and full-stack workflows  
 
-Feel free to reach out !   
+My goal is to keep improving as an engineer by working on projects that prioritize correctness, efficiency, and clarity.
+
+## Contact
+- **Email:** luismolinasalvador@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/luis-molina-salvador
