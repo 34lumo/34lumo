@@ -1,32 +1,37 @@
 # Luis
 
-20. CS + Business @ UCM.
+20. 
+
+CS + BBA @ UCM. Jr SDE at Amazon.
 
 ---
 
 **Now**
 
-- Jr. SDE Apprentice @ Amazon, starting June 2026
-- **SteadyArc** — post-stroke rehab monitoring: sensor glove, eye tracking, 5 ML models + Anthropic API. 1st place Harvard HSIL Hackathon 2026 (38 teams). Now in the HSIL Venture Building Program, Demo Day June 19 in Boston
-- **NeuroTrace** — browser-native stroke rehab with webcam eye tracking, 7 clinical neuromotor markers. 1st place Cursor AI × TechIE Hackathon 2026 (60+ teams)
-- Co-founded [Vouncer](https://vouncer.com) — ticketing and event platform in Colombia. Built the MVP, led tech
+- Jr. SDE @ Amazon Madrid, June 2026
+- **SteadyArc** — post-stroke rehab system: hardware sensor glove (MPU-6050, flex sensor, EMG), browser eye tracking, 5 ML models, 15 clinical neuromotor markers per session. 1st place Harvard HSIL Hackathon 2026 (38 teams, 200+ participants). Representing Spain in the HSIL Global Venture Building Program, Demo Day June 19 at Harvard University, Boston
+- **NeuroTrace** — browser-native stroke rehab with webcam eye tracking and mouse dynamics, 7 neuromotor markers in real time, no special hardware. 1st place Cursor AI × TechIE Hackathon 2026 (100+ teams, 300+ participants). Representing IE at VivaTech 2026, Paris
+
+**Before**
+
+- AI Developer Intern @ Grupo Oesia — LLM traceability, vector search debugging, MongoDB/PostgreSQL ingestion pipelines
+- Co-founded [Vouncer](https://vouncer.com) — ticketing platform in Colombia, 5 venues, 300+ users. Built the core platform and led tech
 
 ---
 
 **Repos worth looking at**
 
-- [`steady-arc`](https://github.com/34lumo/steady-arc) — the hackathon project
-- [`DATASTRUCTURES`](https://github.com/34lumo/DATASTRUCTURES) — Datastructures practice
-- [`SimuladorDeTrafico`](https://github.com/34lumo/SimuladorDeTrafico) — traffic simulation in Java
-- [`LemmingsGame`](https://github.com/34lumo/LemmingsGame) — Java
-- [`Amazon-Pokedex`](https://github.com/34lumo/Amazon-Pokedex-) — TypeScript
+- [`DATASTRUCTURES`](https://github.com/34lumo/DATASTRUCTURES) — C++
+- [`SimuladorDeTrafico`](https://github.com/34lumo/SimuladorDeTrafico) — Java, MVC, design patterns (10/10)
+- [`LemmingsGame`](https://github.com/34lumo/LemmingsGame) — Java, OOP (9.2/10)
+- [`Amazon-Pokedex`](https://github.com/34lumo/Amazon-Pokedex-) — Next.js + AWS Amplify, full-stack
 - [`Monster-Haunted-House`](https://github.com/34lumo/Monster-Haunted-House) — Python
 
 ---
 
 **Stack**
 
-Next.js · TypeScript · Python · Java · C++ · Supabase · AWS · Tailwind
+TypeScript · Next.js · React · Python · Java · C++ · Supabase · MongoDB · PostgreSQL · AWS · Docker · Git
 
 ---
 
