@@ -1,22 +1,33 @@
-# Hi, I’m Lumo
+# Luis
 
-I’m a **Computer Engineering and Business Administration** student with a strong interest in software development, data systems, and how technology is applied in real-world environments.
+20. CS + Business @ UCM.
 
-This GitHub brings together academic and personal projects focused on building solid technical foundations, writing clear and maintainable code, and understanding how systems behave beyond the surface level.
+---
 
-## Areas of interest
-- Data structures and algorithms  
-- Backend development and databases  
-- Software design and system behavior  
-- Data-driven and business-oriented applications  
+**Now**
 
-## What you’ll find here
-- Well-structured academic projects  
-- Practical implementations of core computer science concepts  
-- Projects exploring databases, APIs, and full-stack workflows  
+- Jr. SDE Apprentice @ Amazon, starting June 2026
+- **SteadyArc** — post-stroke rehab monitoring: sensor glove, eye tracking, 5 ML models + Anthropic API. 1st place Harvard HSIL Hackathon 2026 (38 teams). Now in the HSIL Venture Building Program, Demo Day June 19 in Boston
+- **NeuroTrace** — browser-native stroke rehab with webcam eye tracking, 7 clinical neuromotor markers. 1st place Cursor AI × TechIE Hackathon 2026 (60+ teams)
+- Co-founded [Vouncer](https://vouncer.com) — ticketing and event platform in Colombia. Built the MVP, led tech
 
-My goal is to keep improving as an engineer by working on projects that prioritize correctness, efficiency, and clarity.
+---
 
-## Contact
-- **Email:** luismolinasalvador@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/luis-molina-salvador
+**Repos worth looking at**
+
+- [`steady-arc`](https://github.com/34lumo/steady-arc) — the hackathon project
+- [`DATASTRUCTURES`](https://github.com/34lumo/DATASTRUCTURES) — Datastructures practice
+- [`SimuladorDeTrafico`](https://github.com/34lumo/SimuladorDeTrafico) — traffic simulation in Java
+- [`LemmingsGame`](https://github.com/34lumo/LemmingsGame) — Java
+- [`Amazon-Pokedex`](https://github.com/34lumo/Amazon-Pokedex-) — TypeScript
+- [`Monster-Haunted-House`](https://github.com/34lumo/Monster-Haunted-House) — Python
+
+---
+
+**Stack**
+
+Next.js · TypeScript · Python · Java · C++ · Supabase · AWS · Tailwind
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/luis-molina-salvador) · luismolinasalvador@gmail.com
