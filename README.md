@@ -2,7 +2,9 @@
 
 20. 
 
-CS + BBA @ UCM. Jr SDE at Amazon.
+CS + BBA @ UCM. 
+
+Jr SDE at Amazon.
 
 ---
 
