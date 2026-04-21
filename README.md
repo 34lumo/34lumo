@@ -1,5 +1,5 @@
 <h1 align="center">Luis Molina</h1>
-<h3 align="center">Builder • Incoming SDE @ Amazon • CTO @ Vouncer</h3>
+<h3 align="center">Builder • Software Engineer @ Amazon • CTO @ Vouncer</h3>
 
 <p align="center">
   <a href="https://github.com/34lumo">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=999999&center=true&vCenter=true&width=600&lines=shipping+fast;building+things+that+work;0+to+1+execution;engineering+%2B+product+%2B+startups">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2800&color=999999&center=true&vCenter=true&width=750&lines=shipping+fast;building+things+that+work;0+to+1+execution;engineering+%2B+product+%2B+startups;hackathons+to+real+products;high+ownership+builder;iterate+fast+or+die;from+prototype+to+production">
 </p>
 
 ---
@@ -19,7 +19,7 @@
 ## TL;DR
 
 20y/o builder at UCM (Business + Computer Science).  
-Incoming Jr. SDE Apprentice at Amazon (June 2026).  
+Software Engineer @ Amazon (incoming).  
 
 Currently building SteadyArc inside the Harvard HSIL Venture Building Program and RCC ecosystem.
 
@@ -31,45 +31,45 @@ Product-oriented engineer with a strong bias toward execution.
 
 Recent focus:
 - Back-to-back hackathon wins (neurotech)
-- Taking one project from prototype to early-stage venture through Harvard HSIL
+- Taking projects from prototype to early-stage venture
+- Building in high-pressure, fast iteration environments
 
-Interested in the intersection of engineering, product, and early-stage companies.
+Interested in engineering, product, and early-stage company building.
 
 ---
 
 ## Tech
 
-Core
-
+Core  
 TypeScript • Next.js • Python • C++ • Java  
 
-Worked with
-
+Worked with  
 Computer Vision (MediaPipe) • LLM APIs (Anthropic)  
-Supabase • MongoDB • Flask • SQLAlchemy  
+Supabase • MongoDB • PostgreSQL • AWS (Lambda, Amplify)  
+Flask • SQLAlchemy • CI/CD • Docker  
 
 ---
 
-## Currently Building (in public)
+## Currently Building
 
 ### SteadyArc
 
-Harvard HSIL Venture Building Program (Top 50 global teams)  
+Harvard HSIL Venture Building Program (Top 50 global teams out of 14,000+)  
 1st place — Harvard HSIL Hackathon 2026  
 Demo Day — June 19 (Boston)  
 
 Problem  
-Neurological rehabilitation is slow, hard to measure, and lacks continuous data.
+Rehabilitation lacks continuous, objective measurement.
 
 Approach  
-- Sensor-based glove for motion tracking  
-- Eye tracking for cognitive + motor signals  
-- ML models to quantify rehabilitation progress  
+- Sensor-based glove (IMU, EMG, flex sensors)  
+- Browser eye tracking  
+- 5 ML models extracting 15 neuromotor markers  
 
 Current work  
 - Securing first clinical pilot  
 - Exploring patent route with UCM OTC  
-- Iterating toward a usable product  
+- Moving from prototype to real product  
 
 ---
 
@@ -77,44 +77,44 @@ Current work
 
 | Project | Notes |
 |--------|------|
-| SteadyArc | From hackathon prototype to venture (Harvard HSIL) |
-| NeuroTrace | Browser-based rehab using webcam eye tracking |
-| Vouncer | Ticketing platform live in Colombia (5 venues) |
-| Preply Track (Project Barcelona) | EdTech product |
+| SteadyArc | Hackathon → venture (Harvard HSIL) |
+| NeuroTrace | Browser-based rehab tool (1st place IE Hackathon) |
+| Vouncer | Ticketing platform live in Colombia (5 venues, 300+ users) |
+| Preply Track (Project Barcelona) | EdTech analytics platform (top 5%) |
 
 ---
 
 ## Experience
 
-Amazon (2026–) — Jr. SDE Apprentice (incoming)  
-Vouncer (2023–) — Co-founder & CTO  
+Amazon (2026–) — Software Engineer  
+Harvard HSIL — Venture Building Program  
+Grupo Oesia — AI Developer Intern  
 Arcanix Fund — Equity Analyst  
-UCM — Class delegate (3 consecutive years)  
-Hackathons (2026) — 2x consecutive wins  
+UCM — Class President (3 consecutive years)  
 
 ---
 
 ## How I Work
 
-I optimize for speed of execution and fast feedback loops.
+I optimize for speed of execution and tight feedback loops.
 
 Principles:
 - ship early, iterate fast  
 - avoid overengineering  
-- focus on what moves the needle  
+- focus on leverage  
 
 Strengths:
 - execution under pressure  
 - fast learning cycles  
-- bridging product and engineering  
+- product + engineering thinking  
 
 ---
 
 ## Vision
 
 Turn SteadyArc into a real product  
-Become a strong engineer (Amazon or similar environment)  
-Keep building within the global startup ecosystem  
+Grow into a high-performance engineer  
+Keep building and exploring new ventures  
 Build or join something that actually matters  
 
 ---
