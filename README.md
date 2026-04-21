@@ -1,5 +1,5 @@
 <h1 align="center">Luis Molina</h1>
-<h3 align="center">Builder • Software Engineer @ Amazon • CTO @ Vouncer</h3>
+<h3 align="center">Builder • Jr. Software Engineer @ Amazon • CTO @ Vouncer</h3>
 
 <p align="center">
   <a href="https://github.com/34lumo">
@@ -19,7 +19,7 @@
 ## TL;DR
 
 20y/o builder at UCM (Business + Computer Science).  
-Software Engineer @ Amazon (incoming).  
+Jr. Software Engineer @ Amazon (incoming).  
 
 Currently building SteadyArc inside the Harvard HSIL Venture Building Program and RCC ecosystem.
 
@@ -86,7 +86,7 @@ Current work
 
 ## Experience
 
-Amazon (2026–) — Software Engineer  
+Amazon (2026–) — Jr. Software Engineer  
 Harvard HSIL — Venture Building Program  
 Grupo Oesia — AI Developer Intern  
 Arcanix Fund — Equity Analyst  
