@@ -1,6 +1,6 @@
 <h1 align="center">Luis Molina</h1>
 
-<h3 align="center">Jr. Software Engineer @ Amazon &nbsp;·&nbsp; Co-founder & CTO @ Vouncer &nbsp;·&nbsp; Building Steady</h3>
+<h3 align="center">Jr. Software Engineer @ Amazon &nbsp;·&nbsp;  &nbsp;·&nbsp; Building Steady</h3>
 
 <p align="center">
   <a href="https://github.com/34lumo">
