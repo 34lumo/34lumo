@@ -1,6 +1,6 @@
 <h1 align="center">Luis Molina</h1>
 
-<h3 align="center">Jr. Software Engineer @ Amazon &nbsp;·&nbsp;  &nbsp;·&nbsp; Building Steady</h3>
+<h3 align="center">Jr. Software Engineer @ Amazon &nbsp;·&nbsp; Building FixedGap</h3>
 
 <p align="center">
   <a href="https://github.com/34lumo">
@@ -16,23 +16,32 @@
 
 ## About
 
-20y/o. Double degree in Business + CS at UCM. I care about building real things — software that ships, products that reach people, problems worth solving.
+20 y/o. Double degree in Business + Computer Science at UCM.  
+Currently working as a Jr. Software Engineer at Amazon and building FixedGap, a healthtech startup focused on post-stroke recovery monitoring.
+
+I care about building real products: software that ships, reaches users, and solves problems that matter.
 
 ---
 
 ## Amazon
 
-Joining as Jr. Software Engineer in 2026. Strong engineering culture, high ownership, hard problems. Looking forward to it.
+Jr. Software Engineer at Amazon.
+
+Working in a high-ownership engineering environment, focused on scalable systems, product execution, and solving complex technical problems with real user impact.
 
 ---
 
-## Steady — Personal Project
+## FixedGap
 
-Post-stroke rehabilitation monitoring via computer vision — hand tracking and eye tracking. Won 1st place at Harvard HSIL Hackathon 2026 in Madrid (6-person team, 38 teams competing). We originally built a sensor glove with IMU, EMG and flex sensors; we've since moved fully to CV — no hardware, just a camera.
+FixedGap is a healthtech startup building webcam-based recovery monitoring for post-stroke care.
 
-Now one of 50 teams globally in the Harvard HSIL Venture Building Program. Demo Day in Boston, June 19.
+Patients complete short rehab sessions from home using a regular webcam. The system tracks movement through computer vision and turns it into clinician-facing insights, helping neurorehabilitation teams understand what happens between visits.
 
-The problem is personal. I've had family members go through stroke rehab. Objective, continuous measurement of neuromotor recovery basically doesn't exist in clinical settings. That's what we're building toward.
+The product is focused on monitoring support, not diagnosis.
+
+FixedGap started through the Harvard Health Systems Innovation Lab ecosystem. After winning the Madrid Hub, the team advanced through the global selection process and became one of the final teams invited to Boston Demo Day.
+
+Current focus: hospital-led validation in Spain, clinical feedback, product readiness, and pre-seed fundraising.
 
 ---
 
@@ -44,16 +53,16 @@ TypeScript · Next.js · Python · C++ · Java
 
 **Worked with**
 
-Computer Vision (MediaPipe) · Supabase · MongoDB · PostgreSQL · AWS · Flask · Docker
+Computer Vision · MediaPipe · Supabase · MongoDB · PostgreSQL · AWS · Flask · Docker
 
 ---
 
-## Recent Projects
+## Projects
 
 | Project | Notes |
 |---|---|
-| Steady | CV-based rehab monitoring → Harvard HSIL Venture Building Program |
-| NeuroTrace | Browser rehab tool · 1st place, IE × Cursor Hackathon 2026 |
+| FixedGap | Webcam-based post-stroke recovery monitoring · Harvard HSIL · Boston Demo Day finalist |
+| NeuroTrace | Browser-based rehab tool · 1st place, IE × Cursor Hackathon 2026 |
 | Vouncer | Ticketing platform live in Colombia · 5 venues · 300+ users |
 | Project Barcelona | EdTech analytics platform · Preply |
 
@@ -63,9 +72,10 @@ Computer Vision (MediaPipe) · Supabase · MongoDB · PostgreSQL · AWS · Flask
 
 | | |
 |---|---|
-| Amazon | Jr. Software Engineer · incoming 2026 |
-| Harvard HSIL | Venture Building Program · top 50 global |
-| Grupo Oesia | AI Developer Intern |
+| Amazon | Jr. Software Engineer |
+| FixedGap | Co-founder · Strategy & Ventures |
+| Harvard HSIL | Venture Building / Demo Day finalist |
+| Grupo Oesía | AI Developer Intern |
 | Arcanix Fund | Equity Analyst |
 | UCM | Class President · 3 consecutive years |
 
@@ -82,5 +92,5 @@ Computer Vision (MediaPipe) · Supabase · MongoDB · PostgreSQL · AWS · Flask
 ---
 
 <p align="center">
-  <sub>github.com/34lumo · linkedin.com/in/luis-molina-salvador · vouncer.com</sub>
+  <sub>github.com/34lumo · linkedin.com/in/luis-molina-salvador · fixedgap.com</sub>
 </p>
