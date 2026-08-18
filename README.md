@@ -26,9 +26,9 @@ These days that means writing production Java at Amazon by day and building **Fi
 
 ### Currently
 
-- 🏥 **FixedGap** → hospital-led validation in Spain + pre-seed. Reached Boston Demo Day (2nd of 1,553 ventures) via Harvard's Health Systems Innovation Lab.
-- 🔎 **Amazon, Search & Personalization** → Java on a search surface used by millions across 40+ marketplaces. Also built the seatbelts (a draft-first review gate + a run watchdog) for an internal squad of code-writing AI agents.
-- 🧩 Nerd-sniped by → puzzles, latency, and anything that has to work when a real person is on the other side of the screen.
+-  **FixedGap** → hospital-led validation in Spain + pre-seed. Reached Boston Demo Day (2nd of 1,553 ventures) via Harvard's Health Systems Innovation Lab.
+- **Amazon, Search & Personalization** → Java on a search surface used by millions across 40+ marketplaces. Also built the seatbelts (a draft-first review gate + a run watchdog) for an internal squad of code-writing AI agents.
+- Nerd-sniped by → puzzles, latency, and anything that has to work when a real person is on the other side of the screen.
 
 ---
 
