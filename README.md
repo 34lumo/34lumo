@@ -1,6 +1,8 @@
 <h1 align="center">Luis Molina</h1>
 
-<h3 align="center">Software Engineer @ Amazon &nbsp;·&nbsp; Co-founder @ FixedGap</h3>
+<p align="center">
+  <img src="[REDACTED: suspicious URL to readme-typing-svg.demolab.com]'t+pick+between+code+and+markets%2C+so+I+do+both">
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luis-molina-salvador/">
@@ -10,31 +12,23 @@
   <a href="https://fixedgap.com">
     <img src="https://img.shields.io/badge/FixedGap-fixedgap.com-1A1A1A?style=for-the-badge">
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=34lumo&style=for-the-badge&color=0A66C2&label=Profile+views">
 </p>
 
 ---
 
-### About
+### whoami
 
-20 y/o, double degree in Business Administration + Computer Engineering at UCM (Madrid).
+20, from Madrid, halfway through a double degree in Business + Computer Engineering because I genuinely couldn't pick a side. I like being the person who can read the balance sheet *and* ship the thing it pays for.
 
-I care about building real products: software that ships, reaches users, and solves problems that matter. Right now I split my time between shipping production software at Amazon and building FixedGap.
-
----
-
-### Amazon — Software Engineer, Search & Personalization
-
-Java across production services on a customer-facing search surface used by millions across 40+ marketplaces. Recently co-built the team's first multi-agent LLM workflow that takes an engineering task from spec to reviewed, mergeable code, contributing the guardrails (a draft-first review gate and a run watchdog) that make it safe to rely on.
+These days that means writing production Java at Amazon by day and building **FixedGap** the rest of the time: a webcam that watches stroke patients do their rehab at home and tells their doctors what happened between visits. No hardware, no sensors. Just computer vision and a very long tail of edge cases.
 
 ---
 
-### FixedGap — Co-founder & Engineering Lead
+### Currently
 
-Health-tech startup building webcam-based recovery monitoring for post-stroke care. Patients do short rehab sessions from home with a regular webcam; the system tracks movement through computer vision (21 hand landmarks per frame, custom smoothing for stable per-frame tracking) and turns it into clinician-facing insights for what happens between visits. Monitoring support, not diagnosis.
-
-Came up through the Harvard Health Systems Innovation Lab ecosystem: won the Madrid Hub, advanced through global selection, and reached Boston Demo Day (2nd of 1,553 ventures). Current focus: hospital-led validation in Spain, clinical feedback, and pre-seed.
+- 🏥 **FixedGap** → hospital-led validation in Spain + pre-seed. Reached Boston Demo Day (2nd of 1,553 ventures) via Harvard's Health Systems Innovation Lab.
+- 🔎 **Amazon, Search & Personalization** → Java on a search surface used by millions across 40+ marketplaces. Also built the seatbelts (a draft-first review gate + a run watchdog) for an internal squad of code-writing AI agents.
+- 🧩 Nerd-sniped by → puzzles, latency, and anything that has to work when a real person is on the other side of the screen.
 
 ---
 
@@ -42,34 +36,21 @@ Came up through the Harvard Health Systems Innovation Lab ecosystem: won the Mad
 
 ![](https://skillicons.dev/icons?i=java,python,cpp,ts,nextjs,react,nodejs,flask,aws,docker,postgres,mongodb)
 
-**Also:** Computer Vision · MediaPipe · Supabase
+<sub>+ Computer Vision · MediaPipe · Supabase</sub>
 
 ---
 
-### Selected Projects
+### Things I've built
 
-| Project | What it is |
+| Project | The one-liner |
 |---|---|
-| **FixedGap** | Webcam-based post-stroke recovery monitoring · Harvard HSIL · Boston Demo Day (2nd of 1,553) |
-| **Neurotrace** | Real-time neuromotor tracking from webcam · 1st place, IE × Cursor AI Hackathon 2026 · VivaTech Paris |
+| **FixedGap** | A webcam that does post-stroke rehab monitoring · Harvard HSIL · Boston Demo Day (2nd of 1,553) |
+| **Neurotrace** | Real-time neuromotor tracking from a webcam · 1st place, IE × Cursor AI Hackathon 2026 · VivaTech Paris |
 | **Vouncer** | Ticketing platform live in Colombia · 5 venues · 300+ users |
-| **Project Barcelona** | Language-learning behavioral analytics · 3rd place, Preply Track (top 4% of 2,000+) |
-
----
-
-### Experience
-
-| | |
-|---|---|
-| **Amazon** | Software Engineer, Search & Personalization |
-| **FixedGap** | Co-founder & Engineering Lead |
-| **Harvard HSIL** | Venture Building · Boston Demo Day finalist |
-| **Grupo Oesía** | AI Engineering Intern |
-| **Arcanix Fund** | Equity Analyst |
-| **UCM** | Cohort President · 3 consecutive years |
+| **Project Barcelona** | Behavioral analytics for language learning · 3rd, Preply Track (top 4% of 2,000+) |
 
 ---
 
 <p align="center">
-  <sub>github.com/34lumo · linkedin.com/in/luis-molina-salvador · fixedgap.com</sub>
+  <sub>Currently getting very good at algorithms and slightly better at saying no to new project ideas.</sub>
 </p>
