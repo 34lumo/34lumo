@@ -9,9 +9,7 @@
 
 ---
 
-Double degree in Business Administration and Computer Engineering, Universidad Complutense de Madrid.
-
-At Amazon I write production code for Search across 40+ marketplaces. At FixedGap I build webcam-based computer vision for post-stroke rehabilitation, now in a pilot in the biggest hospital in Spain.
+<p align="center"><i>"The impediment to action advances action. What stands in the way becomes the way."</i><br>— Marcus Aurelius</p>
 
 ### Stack
 
@@ -19,7 +17,7 @@ At Amazon I write production code for Search across 40+ marketplaces. At FixedGa
 
 ### Some projects...
 
-- **FixedGap** — Webcam-based post-stroke recovery monitoring. Harvard HSIL, Boston Demo Day (2nd of 1,553).
-- **Neurotrace** — Real-time neuromotor tracking from a webcam. 1st place, IE × Cursor AI Hackathon 2026.
-- **Vouncer** — Ticketing platform live in Colombia. 5 venues, 300+ users.
-- **Project Barcelona** — Behavioral analytics for language learning. 3rd place, Preply Track.
+- **FixedGap** -- Webcam-based post-stroke recovery monitoring. Harvard HSIL, Boston Demo Day (2nd of 1,553).
+- **Neurotrace** -- Real-time neuromotor tracking from a webcam. 1st place, IE x Cursor AI Hackathon 2026.
+- **Vouncer** -- Ticketing platform live in Colombia. 5 venues, 300+ users.
+- **Project Barcelona** -- Behavioral analytics for language learning. 3rd place, Preply Track.
