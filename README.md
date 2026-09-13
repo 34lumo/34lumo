@@ -1,7 +1,9 @@
-# Luis Molina
+<h1 align="center">Luis Molina</h1>
 
-Software engineer at Amazon, working on search. Co-founder of [FixedGap](https://fixedgap.com), webcam-based post-stroke recovery monitoring.
+<p align="center">Software engineer at Amazon · Co-founder at FixedGap</p>
 
-**"The impediment to action advances action. What stands in the way becomes the way."**
+<br>
 
-[LinkedIn](https://www.linkedin.com/in/luis-molina-salvador/)
+<p align="center"><b><i>"The impediment to action advances action.<br>What stands in the way becomes the way."</i></b></p>
+
+<p align="center">Marcus Aurelius</p>
